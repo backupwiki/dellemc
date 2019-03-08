@@ -1,32 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the Dell EMC backup wiki
 
-You can use the [editor on GitHub](https://github.com/backupwiki/dellemc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This wiki is designed to provide people with an **easy** way to get information on Dell EMC backup without having to trall through dozens and dozens of whitepapers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dell EMC backup is great but the information needs to be easier to access.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This wiki has no association with Dell EMC and all information is correct at time of writing however please ensure you double check the linked guides online in case aspects have changed.
 
 ### Jekyll Themes
 
